@@ -22,9 +22,9 @@ public class GoogleMobileAdsDemoScript : MonoBehaviour
     {
 
 #if UNITY_ANDROID
-        string appId = "ca-app-pub-3940256099942544~3347511713";
+        string appId = "ca-app-pub-5915658797486390~7846190663";
 #elif UNITY_IPHONE
-        string appId = "ca-app-pub-3940256099942544~1458002511";
+        string appId = "ca-app-pub-5915658797486390~5659776943";
 #else
         string appId = "unexpected_platform";
 #endif
@@ -189,9 +189,9 @@ public class GoogleMobileAdsDemoScript : MonoBehaviour
 #if UNITY_EDITOR
         string adUnitId = "unused";
 #elif UNITY_ANDROID
-        string adUnitId = "ca-app-pub-3940256099942544/6300978111";
+        string adUnitId = "ca-app-pub-5915658797486390/3276390268";
 #elif UNITY_IPHONE
-        string adUnitId = "ca-app-pub-3940256099942544/2934735716";
+        string adUnitId = "ca-app-pub-5915658797486390/4893490188";
 #else
         string adUnitId = "unexpected_platform";
 #endif
@@ -222,9 +222,9 @@ public class GoogleMobileAdsDemoScript : MonoBehaviour
 #if UNITY_EDITOR
         string adUnitId = "unused";
 #elif UNITY_ANDROID
-        string adUnitId = "ca-app-pub-3940256099942544/1033173712";
+        string adUnitId = "ca-app-pub-5915658797486390/7706589865";
 #elif UNITY_IPHONE
-        string adUnitId = "ca-app-pub-3940256099942544/4411468910";
+        string adUnitId = "ca-app-pub-5915658797486390/2239406687";
 #else
         string adUnitId = "unexpected_platform";
 #endif
@@ -290,9 +290,9 @@ public class GoogleMobileAdsDemoScript : MonoBehaviour
 #if UNITY_EDITOR
         string adUnitId = "unused";
 #elif UNITY_ANDROID
-        string adUnitId = "ca-app-pub-3940256099942544/5224354917";
+        string adUnitId = "ca-app-pub-5915658797486390/3482612667";
 #elif UNITY_IPHONE
-        string adUnitId = "ca-app-pub-3940256099942544/1712485313";
+        string adUnitId = "ca-app-pub-5915658797486390/4402535597";
 #else
         string adUnitId = "unexpected_platform";
 #endif
